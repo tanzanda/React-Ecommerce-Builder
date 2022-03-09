@@ -13,3 +13,5 @@ React Ecommerce Builder is React and Node.js based eCommerce platform. The proje
 Live Demo for App is at https://react-ipragmatech-ecommerce.herokuapp.com/
 
 Server APIs are available at https://ipragmatech-ecommmerce.herokuapp.com/api/docs
+
+https://kapil-jain-ip.medium.com/how-to-effortlessly-create-free-e-commerce-app-using-react-and-nodejs-7d1fc15f56b8
